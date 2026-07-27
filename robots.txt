@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-uuefu4.hartawin-pro.online/sitemap.xml
